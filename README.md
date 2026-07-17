@@ -292,9 +292,9 @@ A governed data-to-agent architecture that combines structured marketing and sal
 
 ## Experience
 
-### AI Trainer & Response Analyst · Alignerr
+### AI Trainer & Response Analyst · Alignerr & DataAnnotation
 
-**2026 — Present**
+**2026 Jul — Present**
 
 Evaluate AI-generated responses against structured quality criteria, with emphasis on factual accuracy, reasoning, instruction following and user usefulness.
 
@@ -308,7 +308,7 @@ Evaluate AI-generated responses against structured quality criteria, with emphas
 
 ### Founder & Operator · EIRIS Health Labs
 
-**2025 — Present**
+**2025 Dec — Present**
 
 Build and operate an e-commerce wellness brand across product strategy, Shopify, performance marketing, analytics, creative production and supplier coordination.
 
