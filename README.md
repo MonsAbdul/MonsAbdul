@@ -1,846 +1,512 @@
-# MASTER PROMPT — BUILD MONAWAR ABDULRAZAQ'S COMPLETE GITHUB PROFILE README
+<div align="center">
 
-Act as a senior technical recruiter, Staff-level data engineer, AI platform engineer, technical writer, GitHub profile designer, and information-design specialist.
+<img width="100%" alt="Purple and indigo wave header introducing Monawar Abdulrazaq" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,45:302B63,100:7C3AED&height=230&section=header&text=Monawar%20Abdulrazaq&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Electrical%20Engineering%20%7C%20Cloud%20Data%20%7C%20AI%20Systems&descAlignY=59&descSize=17" />
 
-Create a complete, production-ready GitHub Profile `README.md` for:
+<a href="https://git.io/typing-svg">
+  <img alt="Animated introduction describing Monawar's engineering focus" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Electrical+Engineering+Student;Building+Cloud+Data+Platforms;Exploring+AI+Systems+Engineering;Snowflake+Data+Engineering;Learning+Through+Practical+Projects" />
+</a>
 
-- Name: Monawar Abdulrazaq
-- GitHub username: `MonsAbdul`
-- GitHub: https://github.com/MonsAbdul
-- LinkedIn: https://www.linkedin.com/in/mons-abdul/
-- Email: monawarabdul@gmail.com
-- Location: Sydney, NSW, Australia
-- Degree: Bachelor of Engineering (Honours)
-- Major: Electrical Engineering
-- University: Western Sydney University
+<br>
 
-Return the finished README itself—not a plan, explanation, outline, analysis, tutorial, or list of recommendations.
+<img alt="Bachelor of Engineering Honours badge" src="https://img.shields.io/badge/Bachelor%20of%20Engineering-Honours-6D28D9?style=flat-square&labelColor=111827" />
+<img alt="Electrical Engineering badge" src="https://img.shields.io/badge/Major-Electrical%20Engineering-7C3AED?style=flat-square&labelColor=111827" />
+<img alt="Western Sydney University badge" src="https://img.shields.io/badge/Western%20Sydney-University-8B5CF6?style=flat-square&labelColor=111827" />
+<img alt="Sydney Australia location badge" src="https://img.shields.io/badge/Sydney-NSW%2C%20Australia-6366F1?style=flat-square&logo=googlemaps&logoColor=white&labelColor=111827" />
 
-The user must be able to paste the result directly into:
+<br><br>
 
-`MonsAbdul/MonsAbdul/README.md`
+<a href="https://github.com/MonsAbdul">
+  <img alt="Engineering Portfolio button" src="https://img.shields.io/badge/ENGINEERING%20PORTFOLIO-6D28D9?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/mons-abdul/">
+  <img alt="LinkedIn button" src="https://img.shields.io/badge/LINKEDIN-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:monawarabdul@gmail.com">
+  <img alt="Email button" src="https://img.shields.io/badge/EMAIL-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/MonsAbdul">
+  <img alt="GitHub button" src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-## PRIMARY OBJECTIVE
+<br><br>
 
-Build a premium, recruiter-focused GitHub profile that presents Monawar as:
+<img alt="GitHub profile views" src="https://komarev.com/ghpvc/?username=MonsAbdul&label=Profile%20Views&color=7C3AED&style=flat-square" />
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/MonsAbdul?label=Followers&style=flat-square&logo=github&color=6D28D9&labelColor=111827" />
+<img alt="GitHub stars across owned repositories" src="https://img.shields.io/github/stars/MonsAbdul?affiliations=OWNER&label=Stars&style=flat-square&logo=github&color=8B5CF6&labelColor=111827" />
+<img alt="Open to internships badge" src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Cadetships-4F46E5?style=flat-square&labelColor=111827" />
 
-> An Electrical Engineering student building practical cloud data platforms and AI-enabled systems with Snowflake.
-
-The profile must communicate his technical trajectory within approximately 20–30 seconds:
-
-```text
-Electrical Engineering
-        ↓
-Cloud Data Engineering
-        ↓
-Declarative Data Pipelines
-        ↓
-AI-Assisted Engineering
-        ↓
-Semantic Data Systems
-        ↓
-Governed AI Agents
-```
-
-The profile should make recruiters interested in his potential without exaggerating his current seniority.
-
-## TRUTHFUL POSITIONING
-
-Monawar is an early-career engineering student developing his technical foundations.
-
-He is not:
-
-- A senior engineer
-- A Staff engineer
-- An AI researcher
-- A machine-learning expert
-- A production software architect
-- An expert Python developer
-- An experienced full-stack engineer
-
-Never use titles or descriptions that imply any of the above.
-
-Appropriate descriptions include:
-
-- Electrical Engineering student
-- Aspiring AI and data engineer
-- Building production-inspired cloud and AI systems
-- Developing practical experience with Snowflake
-- Learning Python and modern AI engineering
-- Open to internships and early-career engineering opportunities
-- Building a focused engineering portfolio
-
-Use the phrase **production-inspired**, not **production-grade**, unless describing a general architecture principle rather than his professional experience.
-
-## CAREER DIRECTION
-
-His target opportunities include:
-
-- AI Engineering internships
-- Data Engineering internships
-- Cloud Engineering internships
-- Software Engineering internships
-- Technical cadetships
-- Data platform roles
-- AI platform roles
-- Sydney-based or remote early-career opportunities
-
-Do not make the profile appear indecisive by listing every possible occupation repeatedly.
-
-Present his central direction as:
-
-> Cloud data engineering evolving into AI systems engineering.
-
-## PROFESSIONAL EXPERIENCE
-
-### AI Trainer & Response Analyst — Alignerr
-
-Describe this carefully and concisely.
-
-Relevant work includes:
-
-- Evaluating AI-generated responses
-- Assessing factual accuracy
-- Assessing reasoning quality
-- Assessing instruction following
-- Applying structured evaluation criteria
-- Providing feedback designed to improve model outputs
-
-Do not claim that he trains foundation models directly, designs model architectures, conducts AI research, or owns production ML systems.
-
-### Founder & Operator — EIRIS Health Labs
-
-EIRIS Health Labs is an e-commerce wellness brand.
-
-Relevant responsibilities include:
-
-- Shopify store development and operation
-- Product and offer strategy
-- Meta advertising
-- Performance analytics
-- Conversion optimisation
-- Creative production
-- Supplier coordination
-- Customer journey improvement
-- Testing and iteration
-
-Keep this section relevant to engineering and analytical thinking.
-
-Do not allow the business section to overpower the technical portfolio.
-
-## TECHNICAL BASELINE
-
-Represent skills honestly.
-
-### Demonstrated through public projects
-
-- Snowflake
-- SQL
-- Snowflake Dynamic Tables
-- Snowflake Cortex AI
-- Snowflake Cortex Search
-- Snowflake Cortex Agents
-- Snowflake Semantic Views
-- AWS S3 data ingestion
-- External stages
-- `COPY INTO`
-- SQL transformations
-- JSON extraction and flattening
-- User-defined functions
-- Streamlit in Snowflake
-- Role-based access control
-- Dynamic data masking
-- Data validation
-- Git
-- GitHub
-- Markdown
-- Technical documentation
-
-### Foundational or developing
-
-- Python
-- Data engineering
-- AI engineering
-- Cloud architecture
-- Git workflows
-- Data modelling
-
-### Currently learning or planning to develop
-
-- Stronger Python foundations
-- Data structures and algorithms
-- Docker
-- APIs
-- Machine learning fundamentals
-- PyTorch
-- LLM application development
-- Retrieval-augmented generation
-- Agent workflows
-- MLOps
-- Cloud platforms
-
-Do not place every planned technology in the main “Tools I Use” section.
-
-Separate demonstrated tools from currently learning topics.
-
-Do not show logos for technologies that he has not yet used.
-
-# VERIFIED ENGINEERING PORTFOLIO
-
-The four projects must be presented as one connected engineering progression.
-
-Use these exact repository links.
+</div>
 
 ---
 
-## PROJECT 1 — SNOWFLAKE DATA ENGINEERING PIPELINE
+## About
 
-Repository:
+I am a first-year **Bachelor of Engineering (Honours)** student majoring in **Electrical Engineering at Western Sydney University**, building a focused technical foundation across software engineering, cloud data platforms and AI-enabled systems.
 
-https://github.com/MonsAbdul/snowflake-data-engineering-pipeline
+My public portfolio follows a deliberate progression: ingesting and transforming operational data, replacing manual workflows with declarative pipelines, applying AI-assisted engineering to requirements-driven change, and integrating semantic models, retrieval, governed tools and AI agents inside Snowflake. Alongside these projects, I am strengthening my Python, SQL, Git and software-development fundamentals.
 
-Recommended display title:
+My experience evaluating AI responses and operating an e-commerce brand has also shaped a product-engineering mindset centred on evidence, iteration, clear communication and measurable decisions.
 
-**01 · Cloud Data Engineering Pipeline**
+### Open To
 
-Verified architecture:
-
-```text
-AWS S3 CSV data
-        ↓
-Snowflake external stage
-        ↓
-Raw relational tables
-        ↓
-SQL transformations
-        +
-Snowflake Marketplace weather data
-        ↓
-User-defined conversion functions
-        ↓
-Harmonised analytical view
-        ↓
-Native Streamlit dashboard
-```
-
-Verified concepts:
-
-- External AWS S3 ingestion
-- Snowflake stage configuration
-- `COPY INTO`
-- Raw table loading
-- SQL transformations
-- Historical weather-data integration
-- Snowflake Marketplace data
-- User-defined functions
-- Harmonised analytical views
-- Python Streamlit application
-- Data validation
-- Technical documentation
-
-Context:
-
-The project uses the fictional Tasty Bytes learning dataset.
-
-Do not portray it as a commercial production deployment.
-
-Desired recruiter takeaway:
-
-> Demonstrates an understanding of the complete ingestion, transformation, integration, validation, and analytical-delivery lifecycle.
+- AI, data, cloud and software engineering internships
+- Technical cadetships and early-career engineering opportunities
+- Sydney-based and remote roles
+- Collaboration on practical data-platform and AI-system projects
 
 ---
 
-## PROJECT 2 — SNOWFLAKE DECLARATIVE DATA PIPELINE
+## Tech Stack
 
-Repository:
+### Languages
 
-https://github.com/MonsAbdul/snowflake-declarative-data-pipeline
+<div align="center">
 
-Recommended display title:
+<img alt="Python skill icon" src="https://skillicons.dev/icons?i=python&theme=dark" />
+<img alt="HTML skill icon" src="https://skillicons.dev/icons?i=html&theme=dark" />
+<img alt="CSS skill icon" src="https://skillicons.dev/icons?i=css&theme=dark" />
+<img alt="Markdown badge" src="https://img.shields.io/badge/Markdown-111827?style=for-the-badge&logo=markdown&logoColor=A78BFA" />
+<img alt="SQL badge" src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logoColor=A78BFA" />
 
-**02 · Declarative Dynamic Tables Pipeline**
+</div>
 
-Verified architecture:
+### Frontend
 
-```text
-Synthetic source generation
-        ↓
-Raw database
-        ↓
-Semi-structured JSON records
-        ↓
-Dynamic Table transformations
-        ↓
-Chained declarative pipeline
-        ↓
-Analytical fact model
-        ↓
-Refresh monitoring and validation
-```
+<div align="center">
 
-Verified concepts:
+<img alt="Streamlit badge" src="https://img.shields.io/badge/Streamlit-111827?style=for-the-badge&logo=streamlit&logoColor=A78BFA" />
+<img alt="Altair badge" src="https://img.shields.io/badge/Altair-111827?style=for-the-badge&logo=vega&logoColor=A78BFA" />
+<img alt="Shopify badge" src="https://img.shields.io/badge/Shopify-111827?style=for-the-badge&logo=shopify&logoColor=A78BFA" />
+<img alt="Responsive UI badge" src="https://img.shields.io/badge/Responsive%20UI-111827?style=for-the-badge&logoColor=A78BFA" />
 
-- Snowflake Dynamic Tables
-- Declarative pipeline design
-- Chained transformations
-- JSON extraction
-- Semi-structured data
-- Source and analytics database separation
-- `TARGET_LAG`
-- Downstream refresh behaviour
-- Fact-model construction
-- Refresh-history inspection
-- Validation controls
-- Faker-based source generation
+</div>
 
-Desired recruiter takeaway:
+### Backend & Databases
 
-> Shows progression from manually executed transformations to declarative, dependency-aware pipeline orchestration.
+<div align="center">
 
-Do not describe Dynamic Tables as traditional scheduled tasks.
+<img alt="Snowflake badge" src="https://img.shields.io/badge/Snowflake-111827?style=for-the-badge&logo=snowflake&logoColor=A78BFA" />
+<img alt="Dynamic Tables badge" src="https://img.shields.io/badge/Dynamic%20Tables-111827?style=for-the-badge&logo=snowflake&logoColor=A78BFA" />
+<img alt="Semantic Views badge" src="https://img.shields.io/badge/Semantic%20Views-111827?style=for-the-badge&logo=snowflake&logoColor=A78BFA" />
+<img alt="Snowpark badge" src="https://img.shields.io/badge/Snowpark-111827?style=for-the-badge&logo=snowflake&logoColor=A78BFA" />
+<img alt="JSON badge" src="https://img.shields.io/badge/JSON-111827?style=for-the-badge&logo=json&logoColor=A78BFA" />
 
----
+</div>
 
-## PROJECT 3 — SNOWFLAKE COCO AI DATA PIPELINE
+### Cloud, DevOps & Tooling
 
-Repository:
+<div align="center">
 
-https://github.com/MonsAbdul/snowflake-coco-ai-data-pipeline
+<img alt="AWS skill icon" src="https://skillicons.dev/icons?i=aws&theme=dark" />
+<img alt="Git skill icon" src="https://skillicons.dev/icons?i=git&theme=dark" />
+<img alt="GitHub skill icon" src="https://skillicons.dev/icons?i=github&theme=dark" />
+<img alt="Visual Studio Code skill icon" src="https://skillicons.dev/icons?i=vscode&theme=dark" />
+<img alt="Windows skill icon" src="https://skillicons.dev/icons?i=windows&theme=dark" />
+<img alt="Snowflake Cortex badge" src="https://img.shields.io/badge/Snowflake%20Cortex-111827?style=for-the-badge&logo=snowflake&logoColor=A78BFA" />
 
-Recommended display title:
-
-**03 · AI-Assisted Data Engineering Workflow**
-
-Verified architecture and workflow:
-
-```text
-Business requirements and onboarding files
-        ↓
-Source discovery and schema comparison
-        ↓
-AI-assisted implementation planning
-        ↓
-Dynamic Table pipeline generation
-        ↓
-Pipeline evolution from changing requirements
-        ↓
-Runbooks and engineering documentation
-        ↓
-Semantic View
-        ↓
-Cortex Agent
-        ↓
-Automated validation
-```
-
-Verified concepts:
-
-- Snowflake CoCo
-- AI-assisted data engineering
-- Local business-requirement files
-- Source discovery
-- Schema comparison
-- Plan-driven implementation
-- Custom project skills
-- PRD-based pipeline changes
-- Dynamic Table evolution
-- Multi-source accounts-payable data
-- Runbook generation
-- Workflow handoff documentation
-- Semantic modelling
-- Cortex Agent configuration
-- Automated SQL validation
-- Guardrails and analytical caveats
-
-The semantic model includes measures related to:
-
-- Total spend
-- Invoice count
-- Average invoice amount
-- Pending invoice count
-- Pending amount
-- Distinct vendor count
-
-The agent is designed to answer accounts-payable analytical questions through a governed semantic layer.
-
-Do not claim autonomous production deployment.
-
-Desired recruiter takeaway:
-
-> Demonstrates how AI-assisted development can be grounded in requirements, reviewable plans, reusable skills, documentation, semantic modelling, and validation.
+</div>
 
 ---
 
-## PROJECT 4 — END-TO-END SNOWFLAKE AI AGENT PIPELINE
+## AI / ML Expertise
 
-Repository:
+| Domain | Proficiency | Details |
+|---|---|---|
+| AI Response Evaluation | Applied | Evaluating factual accuracy, reasoning quality, instruction following and overall response usefulness against structured criteria |
+| AI-Assisted Data Engineering | Developing | Using Snowflake Cortex Code for source discovery, schema comparison, reviewed plans, pipeline implementation and documentation |
+| Semantic Analytics | Developing | Building governed Semantic Views that expose business measures and relationships to analytical tools |
+| Retrieval & Agent Systems | Developing | Connecting Cortex Search, structured analytics and governed tools to Snowflake Cortex Agents |
+| AI-Enriched Data Pipelines | Developing | Applying Cortex AI functions for sentiment and issue classification inside maintained data workflows |
+| Machine Learning Foundations | Learning | Building the mathematics, Python and data foundations required for future ML and deep-learning work |
+| Product Engineering | Applied | Translating user needs, analytics and experimentation into iterative improvements across technical and commercial projects |
 
-https://github.com/MonsAbdul/snowflake-end-to-end-ai-agent-pipeline
+---
 
-Recommended display title:
+## Featured Projects
 
-**04 · Governed End-to-End AI Agent System**
+<div align="center">
 
-Verified concepts:
+### Engineering Portfolio Progression
 
-- Snowflake Cortex AI enrichment
-- Dynamic Tables
-- Structured and unstructured data
-- Semantic modelling
-- Cortex Search
-- Governed agent tools
-- Cortex Agents
-- Role-based access control
-- Dynamic masking
-- Automated validation
-- Security and governance
-- End-to-end AI system integration
+**Traditional Data Engineering**  
+↓  
+**Declarative Pipelines**  
+↓  
+**AI-Assisted Engineering**  
+↓  
+**End-to-End Governed AI Agents**
 
-Recommended architecture narrative:
+</div>
 
-```text
-Operational data
-        +
-Unstructured business content
-        ↓
-Cortex AI enrichment
-        ↓
-Dynamic transformation layer
-        ↓
-Semantic model
-        +
-Cortex Search service
-        ↓
-Governed agent tools
-        ↓
-Cortex Agent
-        ↓
-RBAC and masking controls
-        ↓
-Validation framework
-```
+<details open>
+<summary><strong>01 · Snowflake End-to-End Data Engineering Pipeline</strong></summary>
 
-Desired recruiter takeaway:
+<br>
 
-> Brings together data engineering, retrieval, semantic analytics, agent orchestration, governance, and validation in one coherent Snowflake architecture.
+An ingestion-to-analytics workflow that loads Tasty Bytes transactional data from Amazon S3, integrates historical weather data, creates reusable SQL logic and delivers an interactive Streamlit application inside Snowflake.
 
-Do not claim the system serves real customers or operates at enterprise scale.
-
-## PORTFOLIO NARRATIVE
-
-The portfolio must not appear as four unrelated workshop repositories.
-
-Present it as intentional technical progression:
-
-| Stage | Engineering progression |
+| Dimension | Implementation |
 |---|---|
-| 01 | Building an end-to-end ingestion, transformation and delivery pipeline |
-| 02 | Replacing manual orchestration with declarative Dynamic Tables |
-| 03 | Applying AI-assisted development to requirements-driven pipeline evolution |
-| 04 | Combining data, retrieval, semantics, agents, security and validation |
+| **Stack** | Snowflake, AWS S3, SQL, Python, Snowpark, pandas, Altair, Streamlit |
+| **Scale** | Multi-table educational commerce dataset enriched with external Marketplace weather data |
+| **Performance** | Set-based SQL transformations, reusable views and in-platform analytical delivery |
+| **Security** | Public educational data, Snowflake object separation and no production customer records |
+| **Impact** | Demonstrates the full ingestion, transformation, integration, validation and delivery lifecycle |
+| **Repository** | [View project →](https://github.com/MonsAbdul/snowflake-data-engineering-pipeline) |
 
-This progression is the central differentiator of the profile.
+**Engineering scope**
 
-## DESIGN DIRECTION
+- Configured an external Snowflake stage and loaded structured CSV data with `COPY INTO`.
+- Integrated operational sales data with Pelmorex weather data from Snowflake Marketplace.
+- Built reusable user-defined conversion functions and a harmonised analytical view.
+- Used a generated date series to preserve zero-sale days in the analysis.
+- Delivered the final dataset through Snowpark, pandas, Altair and Streamlit in Snowflake.
+- Verified the completed architecture through a six-object SQL validation framework.
 
-Create a clean, dark-compatible, enterprise-style README.
+<div align="center">
 
-Visual influences:
+<img alt="Snowflake badge" src="https://img.shields.io/badge/Snowflake-6D28D9?style=flat-square&logo=snowflake&logoColor=white" />
+<img alt="AWS S3 badge" src="https://img.shields.io/badge/AWS%20S3-7C3AED?style=flat-square&logo=amazons3&logoColor=white" />
+<img alt="SQL badge" src="https://img.shields.io/badge/SQL-8B5CF6?style=flat-square" />
+<img alt="Python badge" src="https://img.shields.io/badge/Python-6366F1?style=flat-square&logo=python&logoColor=white" />
+<img alt="Streamlit badge" src="https://img.shields.io/badge/Streamlit-4F46E5?style=flat-square&logo=streamlit&logoColor=white" />
 
-- Snowflake
-- Anthropic
-- OpenAI
-- Linear
-- Stripe
-- Vercel
-- Modern engineering documentation
+</div>
 
-Desired qualities:
+</details>
 
-- Premium
-- Restrained
-- Structured
-- Technical
-- Easy to scan
-- Mobile friendly
-- Dark-mode friendly
-- Original
-- Recruiter focused
+<details>
+<summary><strong>02 · Snowflake Declarative Dynamic Tables Pipeline</strong></summary>
 
-Primary visual palette:
+<br>
 
-- Deep purple
-- Indigo
-- Blue
-- Neutral dark tones
+A dependency-aware analytical pipeline that generates synthetic commerce data, extracts semi-structured JSON, chains Snowflake Dynamic Tables and produces a validated customer-order fact model.
 
-Avoid:
+| Dimension | Implementation |
+|---|---|
+| **Stack** | Snowflake, SQL, Dynamic Tables, Python UDTFs, Faker, VARIANT and JSON |
+| **Scale** | Three synthetic source generators, two staging Dynamic Tables and one analytical fact model |
+| **Performance** | Declarative refresh management using downstream and time-based `TARGET_LAG` strategies |
+| **Security** | Synthetic data with separation between `RAW_DB` and `ANALYTICS_DB` layers |
+| **Impact** | Shows progression from manually executed transformations to maintained declarative orchestration |
+| **Repository** | [View project →](https://github.com/MonsAbdul/snowflake-declarative-data-pipeline) |
 
-- Neon gamer aesthetics
-- Excessive gradients
-- Huge walls of badges
-- Excessive animations
-- Giant emoji headings
-- Meme language
-- “10x engineer” language
-- Fake terminal simulations
-- Skill percentage bars
-- Visitor counters that emphasise low traffic
-- Star or follower badges that display zero
-- Generic motivational filler
-- Overly large headings
-- Decorative elements that distract from projects
+**Engineering scope**
 
-Use no more than three or four small emojis in the entire README.
+- Generated customer, product and purchase data through Python user-defined table functions.
+- Extracted nested `VARIANT` fields into explicitly typed relational columns.
+- Chained staging models into `FCT_CUSTOMER_ORDERS_DT`.
+- Applied a data-quality control that excludes unresolved product identifiers.
+- Explored downstream dependency refresh, five-minute target lag and refresh history.
+- Validated the completed system through seven automated SQL controls.
 
-A small location or contact icon is acceptable.
+<div align="center">
 
-## README STRUCTURE
+<img alt="Snowflake badge" src="https://img.shields.io/badge/Snowflake-6D28D9?style=flat-square&logo=snowflake&logoColor=white" />
+<img alt="Dynamic Tables badge" src="https://img.shields.io/badge/Dynamic%20Tables-7C3AED?style=flat-square&logo=snowflake&logoColor=white" />
+<img alt="JSON badge" src="https://img.shields.io/badge/JSON-8B5CF6?style=flat-square&logo=json&logoColor=white" />
+<img alt="Python UDTF badge" src="https://img.shields.io/badge/Python%20UDTFs-6366F1?style=flat-square&logo=python&logoColor=white" />
+<img alt="Data Quality badge" src="https://img.shields.io/badge/Data%20Quality-4F46E5?style=flat-square" />
 
-Use this order:
+</div>
 
-### 1. Hero
+</details>
 
-Create a centred hero section containing:
+<details>
+<summary><strong>03 · Snowflake CoCo AI-Assisted AP Data Pipeline</strong></summary>
 
-- Monawar Abdulrazaq
-- “Electrical Engineering Student”
-- A concise specialisation line
-- A subtle animated typing line
-- LinkedIn button
-- Email button
-- GitHub button
-- “Open to Internships” badge
+<br>
 
-Recommended core positioning:
+An AI-assisted engineering workflow that discovers heterogeneous ERP schemas, normalises Accounts Payable data, applies local requirements, builds a governed semantic layer and exposes analytics through a Cortex Agent.
 
-> Electrical Engineering student building cloud data platforms and AI-enabled systems with Snowflake.
+| Dimension | Implementation |
+|---|---|
+| **Stack** | Snowflake Cortex Code, SQL, Dynamic Tables, Semantic Views, Cortex Analyst and Cortex Agents |
+| **Scale** | Four ERP source systems normalised into one Silver-layer invoice model with 50 validated records |
+| **Performance** | Declarative Dynamic Table maintenance supported by reviewed AI-assisted implementation plans |
+| **Security** | Guardrails for currency interpretation, vendor matching, payment terms and clarification requirements |
+| **Impact** | Demonstrates a reviewable requirements-to-pipeline workflow rather than ungoverned code generation |
+| **Repository** | [View project →](https://github.com/MonsAbdul/snowflake-coco-ai-data-pipeline) |
 
-Use an elegant Capsule Render header or another reliable SVG service.
+**Engineering scope**
 
-Do not make the banner excessively tall.
+- Compared SAP, Oracle, Baan and Workday invoice schemas with different identifiers, datatypes and conventions.
+- Used Cortex Code through Snowsight and a Windows command-line workflow for discovery and plan-driven implementation.
+- Normalised source data into a shared `SILVER_AP_INVOICES` Dynamic Table.
+- Applied local CSV business requirements and documented a PRD-driven pipeline change process.
+- Created operational runbooks, workflow handoff documentation and a reusable project skill.
+- Built `SV_AP_ANALYTICS` and a guardrailed `AP_ANALYTICS_ASSISTANT` Cortex Agent.
+- Verified the core environment and pipeline with automated SQL controls.
 
-Typing-animation phrases may include:
+<div align="center">
 
-- Electrical Engineering Student
-- Building Cloud Data Platforms
-- Exploring AI Systems Engineering
-- Snowflake Data Engineering
-- Learning Through Practical Projects
+<img alt="Cortex Code badge" src="https://img.shields.io/badge/Cortex%20Code-6D28D9?style=flat-square&logo=snowflake&logoColor=white" />
+<img alt="Dynamic Tables badge" src="https://img.shields.io/badge/Dynamic%20Tables-7C3AED?style=flat-square&logo=snowflake&logoColor=white" />
+<img alt="Semantic View badge" src="https://img.shields.io/badge/Semantic%20View-8B5CF6?style=flat-square&logo=snowflake&logoColor=white" />
+<img alt="Cortex Agent badge" src="https://img.shields.io/badge/Cortex%20Agent-6366F1?style=flat-square&logo=snowflake&logoColor=white" />
+<img alt="Multi-ERP badge" src="https://img.shields.io/badge/Multi--ERP-4F46E5?style=flat-square" />
 
-Do not use “Snowflake Developer” as a formal job title.
+</div>
 
-### 2. About
+</details>
 
-Write a concise section of approximately 100–150 words.
+<details>
+<summary><strong>04 · Snowflake End-to-End AI Agent Pipeline</strong></summary>
 
-It should explain:
+<br>
 
-- Electrical Engineering education
-- Interest in cloud data and AI systems
-- Practical Snowflake portfolio
-- Engineering approach
-- Current career direction
+A governed data-to-agent architecture that combines structured marketing and sales data with unstructured support transcripts, AI enrichment, semantic analytics, retrieval, agent tools and role-aware security.
 
-Avoid generic openings such as:
+| Dimension | Implementation |
+|---|---|
+| **Stack** | Snowflake, Cortex AI, Dynamic Tables, Semantic Views, Cortex Search, Cortex Agents and SQL |
+| **Scale** | Five business-data domains integrated into one agent-ready intelligence architecture |
+| **Performance** | Maintained enrichment through Dynamic Tables with specialised structured and retrieval tools |
+| **Security** | RBAC, restricted role, secure view, Dynamic Data Masking and role-specific verification |
+| **Impact** | Unifies data engineering, retrieval, semantics, agent orchestration, governance and validation |
+| **Repository** | [View project →](https://github.com/MonsAbdul/snowflake-end-to-end-ai-agent-pipeline) |
 
-- “I am passionate about technology”
-- “Ever since I was young”
-- “Welcome to my GitHub”
-- “Coding is my life”
-- “I love solving problems”
+**Engineering scope**
 
-Make the writing sound natural rather than AI-generated.
+- Combined campaign, product, sales, social-media and customer-support data inside Snowflake.
+- Applied Cortex AI sentiment analysis and issue classification to unstructured support transcripts.
+- Maintained the enriched analytical layer through a Snowflake Dynamic Table.
+- Built a business-friendly Semantic View and Cortex Search retrieval service.
+- Exposed structured analytics, retrieval and email delivery through a Marketing and Sales Intelligence Agent.
+- Implemented RBAC, a restricted marketing role, a secure view and Dynamic Data Masking.
+- Validated the complete architecture with an automated end-to-end SQL control framework.
 
-Use Australian English spelling.
+<div align="center">
 
-### 3. Current Direction
+<img alt="Cortex AI badge" src="https://img.shields.io/badge/Cortex%20AI-6D28D9?style=flat-square&logo=snowflake&logoColor=white" />
+<img alt="Dynamic Tables badge" src="https://img.shields.io/badge/Dynamic%20Tables-7C3AED?style=flat-square&logo=snowflake&logoColor=white" />
+<img alt="Cortex Search badge" src="https://img.shields.io/badge/Cortex%20Search-8B5CF6?style=flat-square&logo=snowflake&logoColor=white" />
+<img alt="Cortex Agent badge" src="https://img.shields.io/badge/Cortex%20Agent-6366F1?style=flat-square&logo=snowflake&logoColor=white" />
+<img alt="RBAC and masking badge" src="https://img.shields.io/badge/RBAC%20%26%20Masking-4F46E5?style=flat-square&logo=shield&logoColor=white" />
 
-Use a compact YAML block similar to:
+</div>
+
+</details>
+
+---
+
+## Experience
+
+### AI Trainer & Response Analyst · Alignerr
+
+**2026 — Present**
+
+Evaluate AI-generated responses against structured quality criteria, with emphasis on factual accuracy, reasoning, instruction following and user usefulness.
+
+- Apply detailed rubrics consistently across model outputs.
+- Identify unsupported claims, reasoning gaps and instruction-following failures.
+- Produce clear written evaluations that explain comparative quality and improvement opportunities.
+
+`AI Evaluation` `Fact Checking` `Reasoning Analysis` `Instruction Following` `Technical Writing`
+
+<br>
+
+### Founder & Operator · EIRIS Health Labs
+
+**2025 — Present**
+
+Build and operate an e-commerce wellness brand across product strategy, Shopify, performance marketing, analytics, creative production and supplier coordination.
+
+- Use Shopify and Meta advertising data to evaluate customer behaviour and campaign performance.
+- Develop and test offers, messaging, landing-page elements and creative concepts.
+- Coordinate product presentation, fulfilment requirements and iterative customer-journey improvements.
+
+`Shopify` `Meta Ads` `Analytics` `A/B Testing` `Product Strategy` `Conversion Optimisation`
+
+---
+
+## Achievements
+
+| Recognition | Details |
+|:---:|---|
+| **Four-Stage Snowflake Portfolio** | Built a connected public portfolio spanning traditional pipelines, declarative architecture, AI-assisted engineering and governed AI agents |
+| **Snowflake Northstar Data Engineering** | Completed the supplied project architecture and passed its multi-object validation controls |
+| **Snowflake Dynamic Tables Lab** | Built and validated a dependency-aware Dynamic Table pipeline over relational and semi-structured data |
+| **Cortex Code Foundations** | Completed the core workshop architecture for a multi-ERP AP pipeline, semantic model and analytics agent |
+| **From Zero to Agents** | Completed and validated a governed Snowflake data-to-agent architecture |
+| **Independent Product Ownership** | Founded and operates EIRIS Health Labs, applying analytics, experimentation and iterative product decisions |
+
+---
+
+## Certifications
+
+### Snowflake
+
+<div align="center">
+
+<img alt="Snowflake Northstar Data Engineering workshop completed badge" src="https://img.shields.io/badge/Northstar%20Data%20Engineering-Workshop%20Completed-6D28D9?style=for-the-badge&logo=snowflake&logoColor=white" />
+<img alt="Dynamic Tables lab completed badge" src="https://img.shields.io/badge/Dynamic%20Tables-Lab%20Completed-7C3AED?style=for-the-badge&logo=snowflake&logoColor=white" />
+<img alt="Cortex Code Foundations workshop completed badge" src="https://img.shields.io/badge/Cortex%20Code%20Foundations-Workshop%20Completed-8B5CF6?style=for-the-badge&logo=snowflake&logoColor=white" />
+<img alt="From Zero to Agents lab completed badge" src="https://img.shields.io/badge/From%20Zero%20to%20Agents-Lab%20Completed-6366F1?style=for-the-badge&logo=snowflake&logoColor=white" />
+
+</div>
+
+### AWS
+
+<div align="center">
+
+<img alt="AWS certification roadmap badge, no credential claimed" src="https://img.shields.io/badge/AWS-Certification%20Roadmap-111827?style=for-the-badge&logo=amazonwebservices&logoColor=A78BFA" />
+
+</div>
+
+### Oracle
+
+<div align="center">
+
+<img alt="Oracle certification roadmap badge, no credential claimed" src="https://img.shields.io/badge/Oracle-Certification%20Roadmap-111827?style=for-the-badge&logo=oracle&logoColor=A78BFA" />
+
+</div>
+
+### NPTEL
+
+<div align="center">
+
+<img alt="NPTEL structured learning roadmap badge, no credential claimed" src="https://img.shields.io/badge/NPTEL-Structured%20Learning%20Roadmap-111827?style=for-the-badge&logoColor=A78BFA" />
+
+</div>
+
+### Cisco
+
+<div align="center">
+
+<img alt="Cisco certification roadmap badge, no credential claimed" src="https://img.shields.io/badge/Cisco-Certification%20Roadmap-111827?style=for-the-badge&logo=cisco&logoColor=A78BFA" />
+
+</div>
+
+> AWS, Oracle, NPTEL and Cisco are shown as future learning targets only. No certification from these providers is claimed.
+
+---
+
+## Coding Profiles
+
+<div align="center">
+
+<img alt="LeetCode public profile not currently linked" src="https://img.shields.io/badge/LeetCode-PROFILE%20NOT%20LINKED-111827?style=for-the-badge&logo=leetcode&logoColor=A78BFA" />
+<img alt="GeeksforGeeks public profile not currently linked" src="https://img.shields.io/badge/GeeksforGeeks-PROFILE%20NOT%20LINKED-111827?style=for-the-badge&logo=geeksforgeeks&logoColor=A78BFA" />
+<img alt="HackerRank public profile not currently linked" src="https://img.shields.io/badge/HackerRank-PROFILE%20NOT%20LINKED-111827?style=for-the-badge&logo=hackerrank&logoColor=A78BFA" />
+<img alt="CodeChef public profile not currently linked" src="https://img.shields.io/badge/CodeChef-PROFILE%20NOT%20LINKED-111827?style=for-the-badge&logo=codechef&logoColor=A78BFA" />
+
+<br><br>
+
+My public GitHub repositories currently serve as the primary evidence of my engineering work.
+
+</div>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="180" alt="Monawar Abdulrazaq's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=MonsAbdul&show_icons=true&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=7C3AED&include_all_commits=true&count_private=true" />
+<img height="180" alt="Monawar Abdulrazaq's most used public repository languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonsAbdul&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=C4B5FD" />
+
+<br>
+
+<img alt="Monawar Abdulrazaq's GitHub contribution streak" src="https://streak-stats.demolab.com?user=MonsAbdul&theme=transparent&hide_border=true&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+<img alt="GitHub profile trophies for MonsAbdul" src="https://github-profile-trophy.vercel.app/?username=MonsAbdul&theme=discord&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=6" />
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img width="100%" alt="GitHub contribution activity graph for MonsAbdul" src="https://github-readme-activity-graph.vercel.app/graph?username=MonsAbdul&bg_color=00000000&color=C4B5FD&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" />
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MonsAbdul/MonsAbdul/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MonsAbdul/MonsAbdul/output/github-contribution-grid-snake.svg">
+  <img alt="Animated snake moving through MonsAbdul's GitHub contribution grid" src="https://raw.githubusercontent.com/MonsAbdul/MonsAbdul/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+## Current Focus
 
 ```yaml
-focus:
-  - Cloud data engineering
-  - Snowflake and AI-enabled data systems
+learning:
+  - Stronger Python and software engineering foundations
+  - Advanced SQL and Snowflake architecture
+  - Data structures, algorithms and engineering mathematics
+  - Git workflows and maintainable project practices
 
 building:
-  - A four-stage Snowflake engineering portfolio
-  - Stronger Python and software foundations
+  - A connected Snowflake data and AI engineering portfolio
+  - Production-inspired data pipelines and governed agent systems
+  - Practical projects that connect engineering theory with implementation
 
 exploring:
-  - LLM applications
-  - Retrieval and agent workflows
-  - MLOps and cloud infrastructure
+  - Machine learning and PyTorch
+  - LLM applications and retrieval-augmented generation
+  - Agent workflows, APIs, Docker and MLOps
+  - Cloud infrastructure for AI and data platforms
 
-seeking:
-  - AI, data or cloud engineering internships
-  - Technical cadetships in Sydney or remote
+open_to:
+  - AI, data, cloud and software engineering internships
+  - Technical cadetships in Sydney
+  - Remote early-career engineering opportunities
+  - Project collaboration and technical learning communities
 ```
 
-Improve the wording while maintaining accuracy.
+---
 
-### 4. Engineering Portfolio
+## Connect
 
-Make this the dominant section.
+<div align="center">
 
-Begin with a concise Mermaid flowchart showing the progression between the four projects.
+<a href="mailto:monawarabdul@gmail.com">
+  <img alt="Contact Monawar by Gmail" src="https://img.shields.io/badge/GMAIL-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/mons-abdul/">
+  <img alt="Connect with Monawar on LinkedIn" src="https://img.shields.io/badge/LINKEDIN-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/MonsAbdul">
+  <img alt="View Monawar's GitHub profile" src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/MonsAbdul?tab=repositories">
+  <img alt="View Monawar's engineering portfolio repositories" src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-Then create four polished project entries.
+<br><br>
 
-Each project entry must include:
+Interested in cloud data, AI systems or early-career engineering opportunities?  
+Connect with me on LinkedIn or reach out by email.
 
-- Number and title
-- One-sentence summary
-- Architecture or workflow
-- Key engineering concepts
-- What the project demonstrates
-- Direct repository link
-- Relevant technology badges
+</div>
 
-Use `<details>` elements only for supplementary technical information.
+---
 
-Do not hide the core summaries inside collapsed sections.
+<div align="center">
 
-Do not use exaggerated “impact” metrics because no validated commercial metrics exist.
+**Building stronger engineering foundations—one system, one decision and one iteration at a time.**
 
-### 5. Technical Toolkit
+<img width="100%" alt="Purple and indigo wave footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:302B63,100:0F0C29&height=120&section=footer" />
 
-Separate it into:
-
-- Demonstrated
-- Developing
-- Engineering practices
-
-Possible demonstrated items:
-
-- Snowflake
-- SQL
-- Python
-- AWS
-- Streamlit
-- Git
-- GitHub
-- Markdown
-
-Python must be presented as foundational or developing—not advanced.
-
-Concept badges may include:
-
-- Dynamic Tables
-- Cortex AI
-- Cortex Search
-- Cortex Agents
-- Semantic Views
-- RBAC
-- Data Masking
-- Data Validation
-
-Do not misuse `skillicons.dev` for products it does not support.
-
-Use Shields.io badges when necessary.
-
-### 6. Experience Beyond Projects
-
-Include two concise entries:
-
-**AI Trainer & Response Analyst — Alignerr**
-
-**Founder & Operator — EIRIS Health Labs**
-
-Use approximately two or three bullets per role.
-
-Emphasise transferable abilities:
-
-- Evaluation discipline
-- Analytical reasoning
-- Written communication
-- Experimentation
-- Ownership
-- Data-informed decision-making
-- Iterative improvement
-
-Avoid inflated corporate language.
-
-### 7. Learning Roadmap
-
-Create a compact roadmap with three horizons:
-
-**Now**
-
-- Python fundamentals
-- SQL depth
-- Snowflake architecture
-- Git and software-development practices
-
-**Next**
-
-- APIs
-- Docker
-- Data structures
-- Machine-learning fundamentals
-
-**Longer term**
-
-- PyTorch
-- LLM applications
-- Retrieval-augmented generation
-- Agent systems
-- MLOps and cloud deployment
-
-Make clear that these are learning goals, not existing expertise.
-
-### 8. GitHub Activity
-
-Use a restrained analytics section.
-
-Include no more than:
-
-- One GitHub statistics card
-- One contribution/activity graph
-
-Username:
-
-`MonsAbdul`
-
-Configure all widgets for:
-
-- Transparent or dark-compatible background
-- Hidden border
-- Purple or indigo accents
-- Matching dimensions
-- Working URLs
-- Appropriate alt text
-
-Do not include a language-percentage card because the current repository-language distribution may provide a misleading picture of capability.
-
-Do not include trophies.
-
-Do not include a snake animation unless the output also provides everything required to make it function.
-
-The cleaner option is preferred.
-
-### 9. Contact
-
-Include only:
-
-- LinkedIn: https://www.linkedin.com/in/mons-abdul/
-- Email: mailto:monawarabdul@gmail.com
-- GitHub: https://github.com/MonsAbdul
-
-Do not include:
-
-- Portfolio website
-- Resume link
-- X/Twitter
-- Discord
-- Phone number
-
-Use a professional call to action such as:
-
-> Interested in cloud data, AI systems, or early-career engineering opportunities? Connect with me on LinkedIn or reach out by email.
-
-### 10. Footer
-
-Use a subtle Capsule Render footer or a thin visual divider.
-
-Do not end with a generic fake quote.
-
-A suitable original closing line would communicate:
-
-> Building stronger engineering foundations one system at a time.
-
-Improve it if possible while remaining understated.
-
-## FORMATTING REQUIREMENTS
-
-The result must:
-
-- Work directly in GitHub-flavoured Markdown
-- Be responsive on desktop and mobile
-- Display correctly in dark and light mode
-- Use valid HTML where HTML is included
-- Use valid Mermaid syntax
-- Contain no unfinished placeholders
-- Contain no fake URLs
-- Contain no fabricated metrics
-- Contain no unsupported claims
-- Contain no citations or footnotes
-- Avoid external images that are not necessary
-- Include descriptive alt text
-- Keep the source maintainable
-- Prefer simple Markdown over complicated HTML
-- Avoid nested HTML structures that GitHub may strip
-- Avoid tables that become unreadable on mobile
-- Use horizontal dividers sparingly
-
-Target approximately 250–450 lines.
-
-Do not generate a 2,000-line README.
-
-Quality comes from hierarchy, writing and project substance—not length.
-
-## LINK REQUIREMENTS
-
-Use these exact links:
-
-```text
-GitHub:
-https://github.com/MonsAbdul
-
-LinkedIn:
-https://www.linkedin.com/in/mons-abdul/
-
-Email:
-mailto:monawarabdul@gmail.com
-
-Project 1:
-https://github.com/MonsAbdul/snowflake-data-engineering-pipeline
-
-Project 2:
-https://github.com/MonsAbdul/snowflake-declarative-data-pipeline
-
-Project 3:
-https://github.com/MonsAbdul/snowflake-coco-ai-data-pipeline
-
-Project 4:
-https://github.com/MonsAbdul/snowflake-end-to-end-ai-agent-pipeline
-```
-
-Verify every URL used in the final README.
-
-## FINAL QUALITY TEST
-
-Before returning the README, silently check:
-
-1. Can a recruiter understand Monawar’s direction in under 30 seconds?
-2. Are the four projects clearly connected?
-3. Is every technical claim supported by the supplied information?
-4. Is Python represented honestly?
-5. Does the profile feel professional without pretending he is senior?
-6. Are the most important projects visible without opening collapsed sections?
-7. Does the design remain readable on mobile?
-8. Are all links complete and functional?
-9. Does the profile avoid template-like filler?
-10. Would the README support an internship application rather than undermine credibility?
-
-Revise internally until every answer is yes.
-
-## OUTPUT CONTRACT
-
-Return only one complete `README.md` inside a single Markdown code block.
-
-Do not write text before the code block.
-
-Do not write text after the code block.
-
-Do not provide setup instructions.
-
-Do not describe your choices.
-
-Do not return multiple alternatives.
-
-Do not ask questions.
-
-Do not invent missing details.
-
-Create the final GitHub Profile README now.
+</div>
